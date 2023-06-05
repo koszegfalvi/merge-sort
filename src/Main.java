@@ -3,13 +3,17 @@ public class Main {
         System.out.println("Merge Sort");
     }
 
-public static boolean isSorted(int[] array){
+    public static boolean isSorted(int[] array) {
         return false;
-}
-public static int[]  merge (int[] left, int[] right){
-        return null;
-}
+    }
 
+    public static int[] merge(int[] left, int[] right) {
+        return null;
+    }
+
+    public static int[] mergeSort(int[] array) {
+        return null;
+    }
 
 
 }
